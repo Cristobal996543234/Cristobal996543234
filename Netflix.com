@@ -1,0 +1,10 @@
+galletas netflix
+Correo electrónico: wallacetec28@gmail.com | Plan: Padrão com anúncios
+---------------------
+.netflix.com FALSO / FALSO 1732971569 nfvdid BQFmAAEBEBzjDB2YJ9g2DochWokRjXZgXg3mc3aK8AKKucwn9_00ksDu3LcEleaixd-49rIWUhWS6aLN7TZI6RRZp0Sp8-boe6Jp5uDobKLQgAFr09igewv vEnGW1ef_-Mw-zORls6FAR5hFViIVnMVur-m50Szx
+.netflix.com FALSO / FALSO 1736269358 cliente dsca
+.netflix.com VERDADERO / VERDADERO 1733403981 NetflixId ct%3DBQAOAAEBEJwb2NqKqry59C5wf4zvWA2CUEnL-G5cUkpgx73m56XNhl527mSJV0kGy7e4xFglOnzW_bMjoFXzS3PblO4WSx9w5kIMdyM1RvXh 9z8Ge0eu5shmSTjpfHSPh3XEXbCSJuujB_ZBibZF_V3-QN4tYYXoGUHjcXvfe45jpiM11GXjJYN6VfuPV_bl4O84d0AynaazhyVkxxZHNWi76KjD7964-H7U1kwMwEAH_RcK4i2B8TyQGq7xCpY qLYbg8C_-bsO64oQxSUufGxGda7Npny09Yr7JSb5E7Y9XUPw-gyFfD14UpKb-oDDMefJt_LFelJxf7VpOlQ8P0lDeXi51t7_RW0omJeS9wSFiPLwHF6kREvKcD7GjGvZqFFxKvsYyXweR8QNG77_ t1fKP9KWUBqNoxnR1jdrzJLAScLUJFDlii1lE-0pqj4H8KsALGYS9vIlYW8_kOVRlRzgWkhfRxwkMkh7XSiF3hW1GJYMCiq5xGVz3qtBu5ifYtnQMaM0YXOJde3cNBMFrLAn7BBNytXxTWgRNM60yQ 8uXDk6oUhbOsWD24ZZkDXAoUoz2oJC-TmlQFq5BWt2_4r7sHtOUJx9BjXWL6wj8VJNDRkW6ZiIMq4SrK7Lk_koP5V5CK5089vadO97LFg0ko_qx2CALQ0xtL8vekDAW0FoSS-g5pBf8Cs24W IDfSN5p9ePKVtNy8xDJypjHo3hLV88AUTFVedcpsJlZoRkuN1wWsrRQweF62QDfgk607Swc0UwIRKNF-VY1tcDWQMy4mVEB7hdtdKH4vY5Y9o1xYhVOnok_J-OZE3A.%26bt%3Ddbl%26ch %3DAQEAEAABABRCSkrE4IwV1J6lcH7xzGzslii7DhmrICg.%26v%3D2%26mac %3DAQEAEAABABRfCP0IvIOMmxmimAqJZUYfpEwDqooLVfo.
+.netflix.com VERDADERO / VERDADERO 1733403981 SecureNetflixId v%3D2%26mac%3DAQEAEQABABRXn_23NZqztdlDUiL6-uXmbLvJTG1-AZI.%26dt%3D1701868010259
+.netflix.com FALSO / FALSO 1733404022 OptanonConsent isGpcEnabled=0&datestamp=Wed+Dic+06+2023+10%3A07%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3% ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=d54ac876-7cb0-49fb-bcdd-bca1c3b383e5&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC 0004%3A1&EsperandoReconsentimiento=falso
+.netflix.com FALSO / FALSO 1709644021 netflix-sans-bold-3-loaded verdadero
+.netflix.com FALSO / FALSO 1709644021 netflix-sans-normal-3-cargado verdadero
